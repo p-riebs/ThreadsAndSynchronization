@@ -1,4 +1,4 @@
-## CS 441/541 Project 3 Template
+## Threads And Synchronization
 
 This repository contains the template materials for project 3.
 
