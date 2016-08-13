@@ -1,4 +1,4 @@
-# CS441/541 Project 3 - Part 1
+# Bounded Buffer
 
 ## Author(s):
 
